@@ -11,3 +11,6 @@ lxml
 scikit-learn
 pandas
 pyarrow
+utils
+nest_asyncio
+openai      
